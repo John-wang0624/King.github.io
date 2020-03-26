@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>King blog</title>
+  
+  <subtitle>虽然辛苦，我还是会选择那种滚烫的人生。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/child/"/>
+  <updated>2020-03-25T13:44:53.876Z</updated>
+  <id>http://yoursite.com/child/</id>
+  
+  <author>
+    <name>Tao Zhe Wang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>html入门.html</title>
+    <link href="http://yoursite.com/child/2020/03/25/html%E5%85%A5%E9%97%A8/"/>
+    <id>http://yoursite.com/child/2020/03/25/html%E5%85%A5%E9%97%A8/</id>
+    <published>2020-03-25T13:15:42.000Z</published>
+    <updated>2020-03-25T13:44:53.876Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="http://yoursite.com/child/2020/03/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/child/2020/03/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-03-25T12:34:05.000Z</published>
+    <updated>2020-03-25T13:41:10.605Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用github pages服务搭建博客的好处有：</p><ol><li>全是静态文件，访问速度快；</li><li>免费方便，不用花一分钱就可以搭建一个自由的个人博客，不需要服务器不需要后台；</li><li>可以随意绑定自己的域名，不仔细看的话根本看不出来你的网站是基于github的；</li><li>数据绝对安全，基于github的版本管理，想恢复到哪个历史版本都行；</li><li>博客内容可以轻松打包、转移、发布到其它平台；</li><li>等等；</li></ol><h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;使用github pages服务搭建博客的好处有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;全是静态文件，访问速度快；&lt;/li&gt;
+&lt;li&gt;免费方便，不用花一分钱就可以搭建一个自由的个人博客，不需要服务器不需要后台；&lt;/li&gt;
+&lt;li&gt;可以随意绑定自己的域名，不仔细看的话根本看不出来你的网
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
